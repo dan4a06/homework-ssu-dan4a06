@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "xtree": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "set": "cpp",
+        "iterator": "cpp",
+        "utility": "cpp",
+        "exception": "cpp",
+        "fstream": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp"
+    }
+}
