@@ -1,0 +1,20 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Для чего \LaTeX }{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Для чего используется \LaTeX }{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}История \LaTeX }{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Как использовать \LaTeX }{4}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Пример минимального документа}{4}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Преимущества перед текстовыми редакторами}{5}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Недостатки \LaTeX }{5}{subsubsection.1.3.3}%
+\contentsline {section}{\numberline {2}Набор математических формул}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Примеры формул}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Математические символы}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Построение графиков}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Использование пакета PGF/TikZ}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Псевдографика}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Использование пакета listings}{7}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Картинки}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Вставка изображений}{7}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Создание презентаций}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Использование пакета beamer}{7}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Заключение}{8}{section.7}%
