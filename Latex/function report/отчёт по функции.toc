@@ -1,4 +1,0 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Функция y = [x]}{3}{section.1}%
-\contentsline {section}{\numberline {2}Функция y = \{x\}}{5}{section.2}%
-\contentsline {section}{\numberline {3}Функция y = sign(x)}{8}{section.3}%

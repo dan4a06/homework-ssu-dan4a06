@@ -1,0 +1,20 @@
+Ivanov,Manager,12.05.1985,8,95000
+Petrova,Accountant,23.09.1990,6,82000
+Sidorov,Engineer,05.02.1982,12,125000
+Kuznetsova,Analyst,17.11.1988,7,105000
+Smirnov,Programmer,30.07.1993,5,135000
+Vasilyeva,HR Specialist,14.03.1987,9,88000
+Kozlov,Technician,22.10.1979,15,68000
+Novikova,Mar. Manager,08.04.1991,4,112000
+Fyodorov,Director,19.12.1975,20,150000
+Morozova,Designer,03.06.1989,6,98000
+Lebedev,Logistician,25.01.1984,10,92000
+Egorova,Secretary,11.08.1995,3,55000
+Pavlov,Electrician,09.10.1980,14,75000
+Sokolov,Sales Manager,28.02.1986,11,118000
+Orlova,System Admin,15.07.1992,5,127000
+Gusev,Security,04.05.1983,13,65000
+Vinogradova,Lawyer,21.11.1988,7,142000
+Belyaev,PR Specialist,07.03.1994,4,87000
+Karpova,QA Engineer,16.09.1990,6,132000
+Zhukov,CTO,01.01.1978,18,148000
